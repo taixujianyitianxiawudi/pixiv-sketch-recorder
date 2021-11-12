@@ -1,0 +1,2 @@
+PHPSESSID,17283189_v42Wa2VdGGpkZuqNgiiWa74pVUnQAm35,.pixiv.net
+device_token,d4bf8c71995b8f04c081aaf74bd8db1d,.pixiv.net
