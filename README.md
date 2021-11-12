@@ -49,3 +49,5 @@ step3</br>
 例子: ./mix -o path/to/download/
 
 切到对应的文件夹，在powershell里打 ./mix就能运行啦
+
+里面的request写法很鬼畜是因为要支持代理，本来能够request.get的一定得绕一下用powershell Invoke-WebRequest.
