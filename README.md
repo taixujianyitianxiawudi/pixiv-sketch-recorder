@@ -3,7 +3,7 @@
 # usage
 step1</br>
 in https://sketch.pixiv.net/lives, replace the contents of cookies.txt by your own cookies.</br>
-You can record r18 streamers if you don't replace your cookies.</br>
+You can't record r18 streamers if you don't replace your cookies.</br>
 cookie sample:   cookie_name,cookie_value,domain </br>
 so please add your cookie value between the ',' (replace cookie_value)</br>
 
